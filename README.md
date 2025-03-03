@@ -42,7 +42,7 @@ Overall, this app provides a seamless and intuitive experience for users to brow
 
 ### Live Demo
 
-- Deployed to Vercel: [Live Demo]((https://next-pokemon-liard.vercel.app/))
+- Deployed to Vercel: [Live Demo](https://next-pokemon-liard.vercel.app/)
 
 
 ## Getting Started
