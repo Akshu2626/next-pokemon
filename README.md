@@ -65,8 +65,26 @@ To get a local copy up and running, follow these simple example steps.
 ### Bundle project
 
 - `yarn build`
-### Testing
-To test, run
+# Next.js Pokémon Explorer
+
+A Pokémon Explorer web app built using Next.js, fetching data from the PokéAPI.
+
+## Installation & Setup
+
+Follow these steps to set up and run the project locally:
+
+### 1. Clone the repository  
+```bash
+git clone https://github.com/Akshu2626/next-pokemon.git
+cd next-pokemon
+
+`npm install`
+
+`npm run dev`
+
+
+
+
 
 - `yarn test`
 
