@@ -84,8 +84,6 @@ cd next-pokemon
 
 
 
-
-
 - `yarn test`
 
 ### Linters
